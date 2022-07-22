@@ -1,6 +1,7 @@
 from turtle import *
 
-colors = ['red','blue','green','voilet','pink','orange']
+speed('fastest')
+colors = ['red','blue','voilet','pink']
 
 s = len(colors)
 for i in range(500):

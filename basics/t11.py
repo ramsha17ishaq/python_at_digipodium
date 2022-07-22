@@ -4,7 +4,7 @@ s.setup(1000,700)
 colors = ['green','red']
 pencolor('black')
 pensize(5)
-for i in range(6,0,-1):
+for i in range(6,0,-1) :
     penup()
     setpos(0,-20*i)
     pendown()
